@@ -41,18 +41,18 @@
 
 | Función | Kanban | Fecha terminación |
 | --- | --- | --- |
-| 17. Personaje y espacio [40] | Por hacer | - |
-| 18. Personaje y meta [03] | Por hacer | - |
-| 19. Personaje, caja y espacio [410] | Por hacer | - |
-| 20. Personaje, caja y meta [310] | Por hacer | - |
-| 21. Personaje, caja/meta y espacio [450] | Por hacer | - |
-| 22. Personaje, caja/meta y meta [350] | Por hacer | - |
-| 23. Personaje/meta y espacio [46] | Por hacer | - |
-| 24. Personaje/meta y meta [36] | Por hacer | - |
-| 25. Personaje/meta, caja y espacio [416] | Por hacer | - |
-| 26. Personaje/meta, caja y meta [316] | Por hacer | - |
-| 27. Personaje/meta, caja/meta y espacio [456] | Por hacer | - |
-| 28. Personaje/meta, caja/meta y meta [356] | Por hacer | - |
+| 17. Personaje y espacio [40] | Hecho | 16/07/2019 |
+| 18. Personaje y meta [30] | Hecho | 16/07/2019 |
+| 19. Personaje, caja y espacio [410] | Hecho | 16/07/2019 |
+| 20. Personaje, caja y meta [310] | Hecho | 16/07/2019 |
+| 21. Personaje, caja/meta y espacio [450] | Hecho | 16/07/2019 |
+| 22. Personaje, caja/meta y meta [350] | Hecho | 16/07/2019 |
+| 23. Personaje/meta y espacio [46] | Hecho | 16/07/2019 |
+| 24. Personaje/meta y meta [36] | Hecho | 16/07/2019 |
+| 25. Personaje/meta, caja y espacio [416] | Hecho | 16/07/2019 |
+| 26. Personaje/meta, caja y meta [316] | Hecho | 16/07/2019 |
+| 27. Personaje/meta, caja/meta y espacio [456] | Hecho | 16/07/2019 |
+| 28. Personaje/meta, caja/meta y meta [356] | Hecho | 16/07/2019 |
 
 ## Arriba
 
