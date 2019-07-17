@@ -75,18 +75,18 @@
 
 | Función | Kanban | Fecha terminación |
 | --- | --- | --- |
-| 41. Personaje y espacio [04] | Por hacer | - |
-| 42. Personaje y meta [03] | Por hacer | - |
-| 43. Personaje, caja y espacio [014] | Por hacer | - |
-| 44. Personaje, caja y meta [013] | Por hacer | - |
-| 45. Personaje, caja/meta y espacio [054] | Por hacer | - |
-| 46. Personaje, caja/meta y meta [053] | Por hacer | - |
-| 47. Personaje/meta y espacio [64] | Por hacer | - |
-| 48. Personaje/meta y meta [63] | Por hacer | - |
-| 49. Personaje/meta, caja y espacio [614] | Por hacer | - |
-| 50. Personaje/meta, caja y meta [613] | Por hacer | - |
-| 51. Personaje/meta, caja/meta y espacio [654] | Por hacer | - |
-| 52. Personaje/meta, caja/meta y meta [653] | Por hacer | - |
+| 41. Personaje y espacio [04] | Hecho | 16/07/2019 |
+| 42. Personaje y meta [03] | Hecho | 16/07/2019 |
+| 43. Personaje, caja y espacio [014] | Hecho | 16/07/2019 |
+| 44. Personaje, caja y meta [013] | Hecho | 16/07/2019 |
+| 45. Personaje, caja/meta y espacio [054] | Hecho | 16/07/2019 |
+| 46. Personaje, caja/meta y meta [053] | Hecho | 16/07/2019 |
+| 47. Personaje/meta y espacio [64] | Hecho | 16/07/2019 |
+| 48. Personaje/meta y meta [63] | Hecho | 16/07/2019 |
+| 49. Personaje/meta, caja y espacio [614] | Hecho | 16/07/2019 |
+| 50. Personaje/meta, caja y meta [613] | Hecho | 16/07/2019 |
+| 51. Personaje/meta, caja/meta y espacio [654] | Hecho | 16/07/2019 |
+| 52. Personaje/meta, caja/meta y meta [653] | Hecho | 16/07/2019 |
 
 ## Determina si se completo el nivel o no
 
