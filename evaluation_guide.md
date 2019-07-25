@@ -16,7 +16,7 @@
 | --- | --- | --- |
 | 0. Repetir el juego hasta terminar el nivel. | Por hacer | - | | - |
 | 1. Cargar el siguiente nivel. | Por hacer | - | | - |
-| 2. Imprimir mapa.| Por hacer | - |
+| 2. Imprimir mapa.| Hecho | 24/07/2019 |
 | 3. Leer el movimiento. | Por hacer | - |
 | 4. Evaluar el movimiento del usuario. | Por hacer | - |
 
