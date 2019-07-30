@@ -15,7 +15,7 @@
 | Función | Kanban | Fecha terminación |
 | --- | --- | --- |
 | 0. Repetir el juego hasta terminar el nivel. | Hecho | 24/07/2019 |
-| 1. Cargar el siguiente nivel. | Por hacer | - | | - |
+| 1. Cargar el siguiente nivel. | Hecho | 30/07/2019 |
 | 2. Imprimir mapa.| Hecho | 24/07/2019 |
 | 3. Leer el movimiento. | Hecho | 24/07/2019 |
 | 4. Evaluar el movimiento del usuario. | Hecho | 24/07/2019 |
@@ -93,7 +93,7 @@
 | Función | Kanban | Fecha terminación |
 | --- | --- | --- |
 | 53. Evaluar si el nivel esta terminado.  | Hecho | 25/07/2019 |
-| 54. Si el nivel esta terminado cargar el siguiente nivel.  | Por hacer | - |
+| 54. Si el nivel esta terminado cargar el siguiente nivel.  | Hecho | 30/07/2019 |
     
 ## Función extra
 
